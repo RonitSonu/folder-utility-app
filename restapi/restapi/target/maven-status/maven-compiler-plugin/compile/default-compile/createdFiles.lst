@@ -1,0 +1,4 @@
+com\rightdatajson\restapi\repository\LevelOneRepository.class
+com\rightdatajson\restapi\RestapiApplication.class
+com\rightdatajson\restapi\model\LevelOne.class
+com\rightdatajson\restapi\controller\LevelOneController.class
